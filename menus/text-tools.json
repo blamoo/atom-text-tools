@@ -1,0 +1,35 @@
+{
+	"context-menu": {
+		"atom-text-editor": [{
+			"label": "Text tools",
+			"submenu": [{
+					"label": "Reverse text",
+					"command": "text-tools:reverseText"
+				},
+				{
+					"label": "Base64 encode",
+					"command": "text-tools:base64Encode"
+				},
+				{
+					"label": "Base64 decode",
+					"command": "text-tools:base64Decode"
+				},
+				{
+					"type": "separator"
+				},
+				{
+					"label": "Sort lines",
+					"command": "text-tools:sortLines"
+				},
+				{
+					"label": "Reverse lines",
+					"command": "text-tools:reverseLines"
+				},
+				{
+					"label": "Remove duplicate lines",
+					"command": "text-tools:removeDupLines"
+				}
+			]
+		}]
+	}
+}

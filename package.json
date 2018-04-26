@@ -1,0 +1,14 @@
+{
+  "name": "text-tools",
+  "main": "./lib/text-tools",
+  "version": "0.0.1",
+  "description": "Some tools for text manipulation",
+  "keywords": [],
+  "activationCommands": {},
+  "repository": "https://github.com/blamoo/atom-text-tools",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
