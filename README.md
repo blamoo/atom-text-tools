@@ -1,6 +1,6 @@
 # atom-text-tools
 
-A small plgin for Atom that adds some functions to the context menu:
+A small plugin for Atom that adds some functions to the context menu:
 
  - Reverse text
  - Base64 encode
