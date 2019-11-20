@@ -22,6 +22,10 @@
 					"command": "text-tools:sortLines"
 				},
 				{
+					"label": "Sort lines by length",
+					"command": "text-tools:sortLinesByLength"
+				},
+				{
 					"label": "Reverse lines",
 					"command": "text-tools:reverseLines"
 				},
