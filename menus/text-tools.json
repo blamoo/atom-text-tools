@@ -26,12 +26,20 @@
 					"command": "text-tools:sortLinesByLength"
 				},
 				{
+					"label": "Sort lines (natural)",
+					"command": "text-tools:natSortLines"
+				},
+				{
 					"label": "Reverse lines",
 					"command": "text-tools:reverseLines"
 				},
 				{
 					"label": "Remove duplicate lines",
 					"command": "text-tools:removeDupLines"
+				},
+				{
+					"label": "Parse JSON string",
+					"command": "text-tools:unescapeJson"
 				}
 			]
 		}]
