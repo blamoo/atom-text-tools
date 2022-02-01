@@ -1,7 +1,7 @@
 {
   "name": "text-tools",
   "main": "./lib/text-tools",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Some tools for text manipulation",
   "keywords": [],
   "activationCommands": {},
